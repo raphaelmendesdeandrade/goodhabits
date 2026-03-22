@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Rounded Background -->
+  <rect width="512" height="512" rx="115" fill="#D9EF8B" />
+  
+  <!-- Bold Humanist Checkmark -->
+  <path 
+    d="M152 268 L227 343 L360 182" 
+    fill="none" 
+    stroke="#1A1A1A" 
+    stroke-width="56" 
+    stroke-linecap="round" 
+    stroke-linejoin="round" 
+  />
+</svg>

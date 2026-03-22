@@ -1,0 +1,22 @@
+{
+  "short_name": "Habits",
+  "name": "Good Habits",
+  "icons": [
+    {
+      "src": "/icon.svg?v=3",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg?v=3",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F5F2ED",
+  "background_color": "#F5F2ED"
+}

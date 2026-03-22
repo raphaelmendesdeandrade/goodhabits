@@ -1,0 +1,5 @@
+{
+  "name": "Good Habits",
+  "description": "A minimalist personal activity and goal tracking application with Google Sheets integration.",
+  "requestFramePermissions": ["microphone"]
+}
